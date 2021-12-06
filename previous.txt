@@ -1,0 +1,44 @@
+<!Doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+   <meta charset="utf-8">
+   <link rel="icon" href="img/PXL2.png"/>
+   <meta name="viewport" content="width=device-width, initial-scale-1.0">
+   <title>Portfolio</title>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@100&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Dosis:wght@200;300;400&family=Montserrat:wght@100&display=swap" rel="stylesheet">
+</head>
+  <body>
+    <div class="navbar">
+    </div>
+    <div class="profile">
+      <div class="intro">
+        <div class="description">
+          <em><strong><h1>Kumari Shweta</h1></strong></em>
+          <h3>aspiring fullstack developer</h3>
+        </div>
+      </div>
+      <div class="synopsis">
+        <img src="mom.png" class="mom" />
+        <u><h4>Contact Me:</h4></u>
+        <h6>(214)-593-5825</h6>
+        <h6>kshwetavi@gmail.com</h6>
+      </div>
+    </div>
+    <div class="about-me">
+      <h1>About Me</h1>
+      <p>A IT professional with expertise in Java Full Stack programming. Hands on experience in software<br>
+         development and troubleshooting. Skilled in operational support of enterprise applications and<br>
+          related troubleshooting. Worked in Agile and Scrum Methodologies. Good Experience in full life<br>
+           cycle software development, including business requirement gathering, system analysis, design,<br>
+            development, documentation, testing/quality assurance and deployment.</p>
+    </div>
+  </body>
+         
+
+ </html>
